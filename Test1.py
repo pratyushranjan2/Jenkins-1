@@ -11,7 +11,7 @@ class TestFactorialValid(unittest.TestCase):
         """
         data = 4
         result = factorial(data)
-        self.assertEqual(result, 24)
+        self.assertEqual(result, 2)
      
 if __name__ == '__main__':
     unittest.main()
